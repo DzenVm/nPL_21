@@ -12,15 +12,15 @@ export default function PrivacyPage() {
       <div className="section-head">
         <span className="eyebrow">Dokument</span>
         <h1>Polityka prywatności</h1>
-        <p>Ostatnia aktualizacja: sierpień 2026. Dane administratora zostaną uzupełnione po uruchomieniu docelowej domeny.</p>
+        <p>Ostatnia aktualizacja: sierpień 2026. Pełne dane rejestrowe administratora zostaną uzupełnione przed premierą pełnej wersji gry.</p>
       </div>
 
       <h2>1. Kto przetwarza dane</h2>
       <p>
         Administratorem danych jest zespół odpowiedzialny za rozwój i utrzymanie tej strony
         oraz opisanej na niej gry. Pełne dane rejestrowe podmiotu prowadzącego serwis zostaną
-        podane w tym miejscu przed publicznym udostępnieniem gry pod docelową domeną. Do tego
-        czasu kontakt w sprawach dotyczących danych jest możliwy przez adres podany na stronie
+        podane w tym miejscu przed publicznym udostępnieniem pełnej wersji gry. Do tego czasu
+        kontakt w sprawach dotyczących danych jest możliwy przez adres podany na stronie
         kontaktowej.
       </p>
 

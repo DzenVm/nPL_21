@@ -22,8 +22,7 @@ export default function ContactPage() {
       <p>
         Błędy w mechanice, sugestie dotyczące plansz albo pytania o dostępność —
         wszystko trafia pod adres{" "}
-        <a href="mailto:kontakt@twoja-domena.pl">kontakt@twoja-domena.pl</a>{" "}
-        (adres zostanie zaktualizowany po uruchomieniu docelowej domeny).
+        <a href="mailto:kontakt@aartyuni.pro">kontakt@aartyuni.pro</a>.
       </p>
 
       <h2>Sprawy prawne i dotyczące danych</h2>

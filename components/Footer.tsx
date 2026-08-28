@@ -7,8 +7,8 @@ export default function Footer() {
       <div className="container site-footer__grid">
         <div>
           <p className="site-footer__lead">
-            Strona informacyjna gry przeglądarkowej rozwijanej dla graczy w Polsce. Adres serwisu
-            z samą rozgrywką zostanie podpięty po uruchomieniu docelowej domeny.
+            Strona informacyjna gry przeglądarkowej rozwijanej dla graczy w Polsce. Odnośnik do
+            samej rozgrywki pojawi się tutaj po jej uruchomieniu.
           </p>
           <ul className="site-footer__layers">
             {layers.map((l) => (

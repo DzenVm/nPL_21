@@ -60,8 +60,8 @@ export default function TermsPage() {
       <h2>7. Zmiany regulaminu</h2>
       <p>
         Regulamin może być aktualizowany wraz z rozwojem projektu, w szczególności przy
-        uruchomieniu docelowej domeny i pełnej wersji gry. Data ostatniej aktualizacji jest
-        widoczna na początku tego dokumentu.
+        premierze pełnej wersji gry. Data ostatniej aktualizacji jest widoczna na początku
+        tego dokumentu.
       </p>
 
       <h2>8. Kontakt</h2>

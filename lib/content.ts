@@ -1,7 +1,7 @@
 // Treść serwisu — dane po polsku, wydzielone z warstwy prezentacji.
 
 export const site = {
-  baseUrl: "https://twoja-domena.pl", // TODO: podmienić po wyborze docelowej domeny
+  baseUrl: "https://aartyuni.pro",
   descriptor: "Sieciowa gra logiczna w przeglądarce",
   tagline:
     "Rozprowadzasz tramwaj, wodę i prąd po jednej planszy, zanim zabraknie miejsca na kolejny odcinek.",

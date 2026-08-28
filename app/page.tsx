@@ -390,10 +390,10 @@ export default function HomePage() {
       <section className="section final-cta">
         <div className="container final-cta__inner">
           <div>
-            <h2>Domena z samą grą pojawi się wkrótce</h2>
+            <h2>Sama gra pojawi się tutaj wkrótce</h2>
             <p>
-              Ta strona opisuje projekt na etapie przygotowań do premiery. Adres, pod którym
-              zagrasz, dodamy tutaj i w nagłówku, gdy tylko zostanie uruchomiony. Do tego czasu
+              Ta strona opisuje projekt na etapie przygotowań do premiery. Odnośnik do grywalnej
+              wersji dodamy tutaj i w nagłówku, gdy tylko zostanie uruchomiona. Do tego czasu
               możesz sprawdzić szczegóły rozgrywki albo napisać do nas przez stronę kontaktową.
             </p>
           </div>

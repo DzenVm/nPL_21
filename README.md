@@ -42,11 +42,12 @@ mechanik hazardowych.
 
 ## Domena
 
-Docelowa domena nie została jeszcze przydzielona. Tymczasowy placeholder
-(`twoja-domena.pl`) występuje w `lib/content.ts` (`site.baseUrl`) oraz w
-adresie e-mail na stronie kontaktowej — to jedyne miejsca do podmiany po
-wyborze domeny. Po zmianie `site.baseUrl` automatycznie zaktualizują się
-`sitemap.xml`, `robots.txt`, dane Open Graph i kanoniczne adresy URL.
+Docelowa domena to `aartyuni.pro`, ustawiona w `lib/content.ts` (`site.baseUrl`)
+oraz w adresie e-mail na stronie kontaktowej. Zmiana tej jednej wartości
+automatycznie aktualizuje `sitemap.xml`, `robots.txt`, dane Open Graph
+i kanoniczne adresy URL. Wciąż otwarty jest tylko wpis pełnych danych
+rejestrowych podmiotu w polityce prywatności i regulaminie — do uzupełnienia
+przed premierą pełnej wersji gry.
 
 ## Uruchomienie lokalne
 
@@ -70,10 +71,10 @@ npm run lint    # ESLint (flat config, next/core-web-vitals + next/typescript)
 2. Framework Preset: **Next.js** (wykrywany automatycznie).
 3. Zmiennych środowiskowych nie ma — projekt nie łączy się z żadnym
    zewnętrznym API.
-4. Po pierwszym deployu podpiąć docelową domenę w ustawieniach projektu
-   (Domains) i zaktualizować `site.baseUrl` w `lib/content.ts` na rzeczywisty
-   adres — bez tego `sitemap.xml`, `robots.txt` i metadane Open Graph będą
-   nadal wskazywać na placeholder.
+4. Po pierwszym deployu podpiąć domenę `aartyuni.pro` w ustawieniach projektu
+   (Domains). `site.baseUrl` w `lib/content.ts` jest już ustawione na ten
+   adres, więc `sitemap.xml`, `robots.txt` i metadane Open Graph zadziałają
+   od razu poprawnie.
 5. `vercel.json` ustawia region `fra1` (najbliższy Polsce spośród
    dostępnych regionów Vercela) oraz `cleanUrls`.
 
@@ -86,4 +87,5 @@ npm run lint    # ESLint (flat config, next/core-web-vitals + next/typescript)
   z realnym sposobem kontaktu.
 - Baner zgody na cookies zgodny z wymogami dla ruchu z UE/Polski.
 - Strona nie zawiera treści zastępczych ani sekcji „lorem ipsum” — jedyny
-  świadomy placeholder to docelowa domena, opisana wyżej.
+  otwarty punkt to pełne dane rejestrowe podmiotu w dokumentach prawnych,
+  opisany wyżej.
